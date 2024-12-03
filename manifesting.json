@@ -2,7 +2,7 @@
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "http://c9e799c4-dbeb-48c7-abcf-c8b06942911c",
 	"@type": "sc:Manifest",
-	"label": "[Click to edit label]",
+	"label": "Seb's marvelous collection of things",
 	"metadata": [],
 	"description": [
 		{
