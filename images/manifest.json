@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://SleepingCows-droid.github.io/Gloop/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in SleepingCows-droid/Gloop project"
+        ]
+    },
+    "items": []
+}
