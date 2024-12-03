@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 6,
+    "height" : 10
+  }, {
+    "width" : 11,
+    "height" : 19
+  }, {
+    "width" : 22,
+    "height" : 38
+  }, {
+    "width" : 43,
+    "height" : 75
+  }, {
+    "width" : 85,
+    "height" : 150
+  }, {
+    "width" : 169,
+    "height" : 299
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 169,
+  "@id" : "https://SleepingCows-droid.github.io/Gloop/images/garflolol",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 299
+}
