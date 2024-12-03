@@ -1,0 +1,301 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://c9e799c4-dbeb-48c7-abcf-c8b06942911c",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://821d13c7-2538-496d-bf9c-446a07d8b143",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://e703ced1-f0eb-4da6-83e8-88cdeaa6e6af",
+					"@type": "sc:Canvas",
+					"label": "Peter Lombard's Magna Glossatura Trinity College B.5.6 f.0016v",
+					"height": 5492,
+					"width": 4097,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5a95f492-2a27-4067-97dd-3caa747273e4",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.5.6%2F020_B.5.6_f008v.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.5.6%2F020_B.5.6_f008v.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 22500724,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 5492,
+								"width": 4097
+							},
+							"on": "http://e703ced1-f0eb-4da6-83e8-88cdeaa6e6af"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://bc701570-961a-45ba-b594-775b03bca1e0",
+					"@type": "sc:Canvas",
+					"label": "Peter Lombard's Magna Glossatura Trinity College B.5.6 f.135v",
+					"height": 5311,
+					"width": 4307,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5b14da95-3738-4d70-9537-2ff2d22f52fe",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.5.6%2F276_B.5.6_f135v.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.5.6%2F276_B.5.6_f135v.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 22874477,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 5311,
+								"width": 4307
+							},
+							"on": "http://bc701570-961a-45ba-b594-775b03bca1e0"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://50dea7be-6400-41a2-9cfc-58ece01c9e69",
+					"@type": "sc:Canvas",
+					"label": "Peter Lombard's Magna Glossatura Trinity College B.5.4 f.001v",
+					"height": 8252,
+					"width": 5982,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://509d2734-3336-4918-b1b7-e0c520ba34de",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.5.4%2F007_B.5.4_f001r.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.5.4%2F007_B.5.4_f001r.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 49363464,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 8252,
+								"width": 5982
+							},
+							"on": "http://50dea7be-6400-41a2-9cfc-58ece01c9e69"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://a8a36da8-7a2b-4535-8508-25ed59a2a874",
+					"@type": "sc:Canvas",
+					"label": "Peter Lombard's Magna Glossatura Trinity College B.5.4 f.135v",
+					"height": 8252,
+					"width": 5982,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://fc811cb5-1e21-40c5-be23-0827bf73ca23",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.5.4%2F282_B.5.4_f135v.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.5.4%2F282_B.5.4_f135v.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 49363464,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 8252,
+								"width": 5982
+							},
+							"on": "http://a8a36da8-7a2b-4535-8508-25ed59a2a874"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"thumbnail": {
+		"@id": "http://e703ced1-f0eb-4da6-83e8-88cdeaa6e6af"
+	}
+}
